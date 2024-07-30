@@ -30,4 +30,7 @@ export class ProductsService {
     // Añadir la data al arreglo
     // retornar el nuevo id del producto creado
   }
+  update () {
+    console.log("Hi i am a update service.");
+  }
 }
